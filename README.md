@@ -16,5 +16,5 @@
 * `객체.메서드()` 메서드를 실행해라
 * `객체.속성="값"` 오른쪽 값을 왼쪽 객체.속성에 새로 대입해라
 * `<img src="./img/white.png">
-* `img.src;` whiet 이미지 일기 
-* `<img src="./img/black.png"> white -> black 대로대입
+* `img.src;` white 이미지 일기 
+* `<img src="./img/black.png"> white -> black 새로 대입
